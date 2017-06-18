@@ -1,0 +1,1 @@
+mkdir komutu ile klasör oluşturduk
